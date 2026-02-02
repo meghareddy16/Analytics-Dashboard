@@ -102,11 +102,6 @@ if (!rows.length) {
 
   return (
     <>
-    {`
-    .recharts-tooltip-label{
-    color: #434242;}
-    `}
-   
 
     <div className="flex min-h-screen bg-[#F8FAFC]">
       {/* SIDEBAR */}
